@@ -1,0 +1,45 @@
+[
+    {
+      "index": 6,
+      "title": "PID-6: 10000 BOND for UMA KPI Option Pilot",
+      "status": "Voting",
+      "vote_for": 99.96,
+      "vote_against": 0.04
+    },
+    {
+      "index": 5,
+      "title": "PID-5: Allocate BOND rewards for seniors incentivization and USDC for jToken liquidity bootstrapping",
+      "status": "Executed",
+      "vote_for": 99.87,
+      "vote_against": 0.13
+    },
+    {
+      "index": 4,
+      "title": "PID-4: Bancor, Nexus, ImmuneFi & update DAO parameters",
+      "status": "Executed",
+      "vote_for": 100,
+      "vote_against": 0
+    },
+    {
+      "index": 3,
+      "title": "PID-3: Seed Bancor Pool and change bond model for Compound SMART Yield markets",
+      "status": "Executed",
+      "vote_for": 99.9,
+      "vote_against": 0.1
+    },
+    {
+      "index": 2,
+      "title": "PID-2: Incentives for AAVE and CREAM SY junior tranches",
+      "status": "Executed",
+      "vote_for": 100,
+      "vote_against": 0
+    },
+    {
+      "index": 1,
+      "title": "PID-1: Junior incentive & senior max maturity",
+      "status": "Failed",
+      "vote_for": 45.32,
+      "vote_against": 54.68
+    }
+  ]
+  

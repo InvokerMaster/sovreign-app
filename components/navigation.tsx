@@ -81,6 +81,9 @@ export default function Navigation() {
             <li>
               <NavigationItem href="/vote" text="Vote" />
             </li>
+            <li>
+              <NavigationItem href="/proposals" text="Proposals" />
+            </li>
           </ul>
         </li>
 
